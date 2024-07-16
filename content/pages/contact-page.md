@@ -5,9 +5,8 @@ sections:
   - type: HeroSection
     title: Contact Page
     subtitle: Contact Page
-    text: >-
-      Add more sections by hovering above or below this one and clicking '+ Add
-      Section', or using the sidebar.
+    text: |
+      Please contact us in case of any doubts
     actions:
       - type: Button
         label: Get Started
