@@ -9,7 +9,7 @@ sections:
       Please contact us in case of any doubts
     actions:
       - type: Button
-        label: Get Started
+        label: Contact us
         url: /
         size: large
         variant: contained
