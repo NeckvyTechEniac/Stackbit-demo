@@ -13,7 +13,7 @@
             {
                 "type": "Link",
                 "label": "Contact Us",
-                "url": "/contact-us",
+                "url": "/contact-page",
                 "underline": "always",
                 "color": "primary"
             },
