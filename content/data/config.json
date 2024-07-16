@@ -12,6 +12,13 @@
             },
             {
                 "type": "Link",
+                "label": "Contact Us",
+                "url": "/contact-us",
+                "underline": "always",
+                "color": "primary"
+            },
+            {
+                "type": "Link",
                 "label": "About",
                 "url": "/about",
                 "underline": "hover"
